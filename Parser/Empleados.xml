@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Empleados>
+    <Empleado>
+        <Codigo>1</Codigo>
+        <Nombre>Alberto</Nombre>
+        <Direccion>C/Allariz, 11</Direccion>
+        <Salario>1000.0</Salario>
+        <Comision>100.0</Comision>
+    </Empleado>
+    <Empleado>
+        <Codigo>2</Codigo>
+        <Nombre>Beatriz</Nombre>
+        <Direccion>C/Bonaval,22</Direccion>
+        <Salario>2000.0</Salario>
+        <Comision>200.0</Comision>
+    </Empleado>
+    <Empleado>
+        <Codigo>3</Codigo>
+        <Nombre>Carlos</Nombre>
+        <Direccion>C/Corazones rotos, 33</Direccion>
+        <Salario>3000.0</Salario>
+        <Comision>300.0</Comision>
+    </Empleado>
+    <Empleado>
+        <Codigo>4</Codigo>
+        <Nombre>Desiderio</Nombre>
+        <Direccion>C/Del horreo, 44</Direccion>
+        <Salario>4000.0</Salario>
+        <Comision>400.0</Comision>
+    </Empleado>
+    <Empleado>
+        <Codigo>5</Codigo>
+        <Nombre>Estefania</Nombre>
+        <Direccion>C/Eramos pocos, 55</Direccion>
+        <Salario>5000.0</Salario>
+        <Comision>500.0</Comision>
+    </Empleado>
+</Empleados>
